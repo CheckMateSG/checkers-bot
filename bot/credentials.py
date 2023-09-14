@@ -7,5 +7,5 @@ if os.path.exists(".env"):
 
 # now we have them as a handy python strings!
 BOT_TOKEN = os.getenv('BOT_TOKEN')
-BOT_USERNAME = os.getenv('BOT_USERNAME')
-URL = "https://fba2-122-11-212-86.ngrok-free.app/"
+# BOT_USERNAME = os.getenv('BOT_USERNAME')
+URL = "https://factual-worm-noble.ngrok-free.app"
